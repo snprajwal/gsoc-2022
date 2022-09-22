@@ -1,0 +1,11 @@
+.markdown-body {
+  font-size: 15px;
+}
+
+img
+{
+  display: block;
+  float: none;
+  margin-left:auto;
+  margin-right:auto;
+}
